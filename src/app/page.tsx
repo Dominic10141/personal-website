@@ -25,7 +25,7 @@ export default function HomePage() {
   <p className="mt-6 text-base text-zinc-600 font-light">
     I'm Dominic, a student and tech enthusiast based in Hong Kong.
     I'm the lead developer at TechNova, where we create innovative solutions
-    that leverage AI and machine learning to solve real-world problems.
+    that leverage AI and machine learning to solve real-world problems.。。
   </p>
 </div>
 <div className="mt-6">
