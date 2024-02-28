@@ -57,7 +57,7 @@ export default function HomePage() {
   {/*  We also use the text-base class to make the description large */}
   {/*  We use the font-light class to make the description light */}
   <p className="text-zinc-600 font-light">
-    这部分是我参与过的项目与实验
+    这部分是我参与过的项目与实验-update
   </p>
 
   <div className="mt-7">
