@@ -13,11 +13,14 @@ export function Button({
   // {} is used to destructure the props object, so we can use the props directly without using props.variant, props.children, etc.
   return (
     <button
-      className="px-4 text-sm py-3 rounded-md 
+    
+    className="px-4 text-sm py-3 rounded-md 
     flex items-center justify-center gap-2 
-    bg-zinc-800 text-white hover:bg-zinc-900"
+    bg-zinc-800 text-white hover:bg-zinc-900 m-2"
+    
     >
       {children}
     </button>
   );
 }
+
