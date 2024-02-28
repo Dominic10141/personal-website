@@ -57,10 +57,7 @@ export default function HomePage() {
   {/*  We also use the text-base class to make the description large */}
   {/*  We use the font-light class to make the description light */}
   <p className="text-zinc-600 font-light">
-    I’ve worked on tons of little projects over the years but these are the ones
-    that I’m most proud of. Many of them are open-source, so if you see
-    something that piques your interest, check out the code and contribute if
-    you have ideas for how it can be improved.
+    这一块是一个实验
   </p>
 
   <div className="mt-7">
